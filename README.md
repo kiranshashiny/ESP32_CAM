@@ -76,4 +76,25 @@ This is how the connections should show up once the module is connected.
 On a successful Upload
 
 ![image](https://user-images.githubusercontent.com/14288989/133604890-a54f889d-0ce9-4ee8-afdf-5d30db01f36f.png)
+![image](https://user-images.githubusercontent.com/14288989/133605047-be073ac9-8f0f-4a59-9a89-d889a2106eb2.png)
+
+At this point - Open the serial monitor, remove the Flash GND pin, press RST button.
+
+Error during Upload
+
+To resolve :
+Change the ssid from JioFiber-702_5g to JioFiber-702 ( the 2.4Ghz ) in the sketch
+Also does changing the laptop's JioFiber-702_5G to 2.4Ghz help ? ( I did and I was able to connect )
+
+![image](https://user-images.githubusercontent.com/14288989/133605205-96f43a14-d824-4ad0-bf8f-42cf24baef36.png)
+
+
+
+Error during Upload
+If you get a continuous 'trying to connect' message on the Serial Monitor - then change from 5G to 2.4G connection.
+
+On successful connection :
+
+![image](https://user-images.githubusercontent.com/14288989/133606462-bd39cad5-7fab-455f-b01e-79ed44366e3e.png)
+
 
