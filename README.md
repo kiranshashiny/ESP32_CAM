@@ -98,4 +98,7 @@ On successful connection :
 
 ![image](https://user-images.githubusercontent.com/14288989/133606462-bd39cad5-7fab-455f-b01e-79ed44366e3e.png)
 
+On successful connection:
+
+![image](https://user-images.githubusercontent.com/14288989/133645434-20a32ef8-3569-4760-b350-24242ba9437a.png)
 
