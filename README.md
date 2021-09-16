@@ -73,4 +73,7 @@ This is how the connections should show up once the module is connected.
 
 ![image](https://user-images.githubusercontent.com/14288989/133604506-83382af6-aa6e-47eb-9073-24f94e567f5f.png)
 
+On a successful Upload
+
+![image](https://user-images.githubusercontent.com/14288989/133604890-a54f889d-0ce9-4ee8-afdf-5d30db01f36f.png)
 
