@@ -38,3 +38,11 @@ https://www.youtube.com/watch?v=5XCb3t8J4Kg
 
 
 ![image](https://user-images.githubusercontent.com/14288989/133601726-52ca9f57-e4c5-4370-8757-00a6dd7d3dc6.png)
+
+
+Flashing mode / programming the board 
+
+Connect IO0 and GND during flashing. Disconnect and press RESET to start running the sketch
+
+![image](https://user-images.githubusercontent.com/14288989/133602185-9d12e5b9-26a9-4043-8719-178b87500c1a.png)
+
