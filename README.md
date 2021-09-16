@@ -5,14 +5,16 @@ Parts needed :
 
 1. ESP32 + Cam  ( I got 2 pieces separately, and I had to hook it up )
 2. FTDI connector
-Connections are as follows : See pin diagram diagram below on pin structure.
+3. Magnifying glass 
+
+Connections are as follows : 
 
 FTDI    ESP32
 
-5v        5v
-GND       GND
-Tx        UORxD
-Rx        U0TxD
+ 5v        5v
+ GND       GND
+ Tx        UORxD
+ Rx        U0TxD
 
 ![image](https://user-images.githubusercontent.com/14288989/133599732-61434002-5f70-427c-95b9-61a043aa9bf2.png)
 
