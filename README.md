@@ -19,9 +19,9 @@ FTDI    ESP32
  
  Rx        U0TxD
 
-To put in Flash mode 
+To put in Flash mode: ( Careful - DO NOT CONNECT THE VCC AND THE GND AS IT WILL COME UP AN ERROR ON THE MAC USB PORT )
 
-Connect GPIO0 and GND ( next to each other ) 
+Connect IO0 and GND - on the silk screen (next to each other ) 
 
 Mine is NOT a AI-Thinker - as listed other documents - it's printed on the chip.
 
@@ -65,4 +65,12 @@ Programming Sketch
 In the code Uncomment. Line 11, as my chip set is not Line 17 ( on the core, it should be printed AI-Thinker and mine is not a AI thinker chipset )
 
 ![image](https://user-images.githubusercontent.com/14288989/133603149-1c4ea3bc-9368-4bcf-a05c-76f0bea91300.png)
+
+ To be added the libraries etc etc.
+ 
+ 
+This is how the connections should show up once the module is connected.
+
+![image](https://user-images.githubusercontent.com/14288989/133604506-83382af6-aa6e-47eb-9073-24f94e567f5f.png)
+
 
