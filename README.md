@@ -8,6 +8,7 @@ Parts needed :
 Connections are as follows : See pin diagram diagram below on pin structure.
 
 FTDI    ESP32
+
 5v        5v
 GND       GND
 Tx        UORxD
