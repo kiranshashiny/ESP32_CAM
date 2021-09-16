@@ -62,7 +62,8 @@ Programming Sketch
 
 ![image](https://user-images.githubusercontent.com/14288989/133602926-d5138ceb-1a7c-4c8b-9b3d-e07ea796dbdb.png)
 
-In the code Uncomment. Line 11, as my chip set is not Line 17 ( on the core, it should be printed AI-Thinker and mine is not a AI thinker chipset )
+Code to be set to Line 17 ( Don't do WRover - as you will get a Unsupported Camera error )
+
 
 ![image](https://user-images.githubusercontent.com/14288989/133603149-1c4ea3bc-9368-4bcf-a05c-76f0bea91300.png)
 
