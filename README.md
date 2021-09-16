@@ -19,6 +19,12 @@ FTDI    ESP32
  
  Rx        U0TxD
 
+To put in Flash mode 
+
+Connect GPIO0 and GND ( next to each other ) 
+
+Mine is NOT a AI-Thinker - as listed other documents - it's printed on the chip.
+
 ![image](https://user-images.githubusercontent.com/14288989/133599732-61434002-5f70-427c-95b9-61a043aa9bf2.png)
 
 
@@ -50,4 +56,13 @@ Flashing mode / programming the board
 Connect IO0 and GND during flashing. Disconnect and press RESET to start running the sketch
 
 ![image](https://user-images.githubusercontent.com/14288989/133602185-9d12e5b9-26a9-4043-8719-178b87500c1a.png)
+
+
+Programming Sketch
+
+![image](https://user-images.githubusercontent.com/14288989/133602926-d5138ceb-1a7c-4c8b-9b3d-e07ea796dbdb.png)
+
+In the code Uncomment. Line 11, as my chip set is not Line 17 ( on the core, it should be printed AI-Thinker and mine is not a AI thinker chipset )
+
+![image](https://user-images.githubusercontent.com/14288989/133603149-1c4ea3bc-9368-4bcf-a05c-76f0bea91300.png)
 
