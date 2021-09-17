@@ -102,3 +102,7 @@ On successful connection:
 
 ![image](https://user-images.githubusercontent.com/14288989/133645434-20a32ef8-3569-4760-b350-24242ba9437a.png)
 
+
+Diagram to connect the PIR sensor to ESP32CAM
+
+![image](https://user-images.githubusercontent.com/14288989/133751199-4e153c66-ac79-4a4e-a370-deb6287457eb.png)
